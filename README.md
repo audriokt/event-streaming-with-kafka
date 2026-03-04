@@ -20,11 +20,8 @@ Project ini mendemonstrasikan implementasi event streaming menggunakan Apache Ka
     ├── consumer2.ipynb
     └── consumer3.ipynb
 ```
-
 ---
-
 ## Execution Steps
-
 ### 1. Start Services
 
 Pastikan Docker dan Docker Compose telah terinstall, kemudian jalankan:
