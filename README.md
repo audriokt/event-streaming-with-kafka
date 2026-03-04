@@ -3,7 +3,7 @@
 
 # Kafka + Spark Streaming Project
 
-Project ini mendemonstrasikan implementasi event streaming menggunakan Apache Kafka, pemrosesan data dengan Apache Spark, serta eksplorasi melalui Jupyter Notebook dalam lingkungan tercontainerisasi menggunakan Docker.
+Project ini mendemonstrasikan implementasi event streaming menggunakan Apache Kafka, serta eksplorasi melalui Jupyter Notebook dalam lingkungan tercontainerisasi menggunakan Docker.
 
 ---
 
