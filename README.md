@@ -45,7 +45,7 @@ Buka browser dan akses:
 ```
 http://localhost:8888
 ```
-
+atau buka container all-spark-notebook buka log lalu klik URL yang ada
 Masuk ke folder `scripts/`, kemudian jalankan:
 
 * `producer.ipynb`
